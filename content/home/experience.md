@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.soest.hawaii.edu/soestwp/announce/news/mauka-to-makai-course-facilitates-pathway-from-community-colleges-to-uh-manoa/"
   location = "Hawaii"
   date_start = "2018-06-01"
-  date_end = "2019-0 8-31"
+  date_end = "2019-08-31"
   description = """Lead-Instructor on the Mauka to Makai summer program. Facilitating pathways from Community Colleges to University of Hawaii."""
 
 +++
